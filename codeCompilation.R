@@ -1,6 +1,5 @@
 #Group 5- Project 1
 
-
 #Preparing the graph. Data was cleaned to reduce to 45 nodes
 test1<-read.table("/Users/aarvithadeshwar/Downloads/p1/out.subelj_jdk_jdk")
 em<-as.matrix(test1)
